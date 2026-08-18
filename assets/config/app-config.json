@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://apps.sgs.gov.sa/backend/api",
+  "geoInfoPortalUrl": "https://example.com",
+  "keycloakUrl": "https://apps.sgs.gov.sa/backend/auth/realms/geoportal-realm/protocol/openid-connect/token",
+  "keycloakClientId": "sgs-angular",
+  "mapp": {
+    "tokenUrl": "https://apps.sgs.gov.sa/api/v1/oauth2/token",
+    "tenant": "NGD_Beta",
+    "clientId": "App",
+    "storageKey": "apps_storage"
+  }
+}

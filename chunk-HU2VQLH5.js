@@ -1,0 +1,1 @@
+import{ka as n}from"./chunk-LALF4JQT.js";var p=(()=>{class r{transform(e){return e?e.replace(/\n\n/g,"<br><br>").replace(/\n/g,"<br>").replace(/\\n\\n/g,"<br><br>").replace(/\\n/g,"<br>"):""}static{this.\u0275fac=function(t){return new(t||r)}}static{this.\u0275pipe=n({name:"newlineToBr",type:r,pure:!0,standalone:!0})}}return r})();export{p as a};
